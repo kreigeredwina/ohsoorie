@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ootohvohw.contextmapper.org/sitemap.xml
